@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML / AI for financial services and banking organisations
 - 🌱 I’m currently learning Python (long term SAS user)
 - 💞️ I’m happy to collaborate on ML / AI in financial services
-- 📫 How to reach me? john.christiansen@ezbob.com
+- 📫 Want to reach me? john.christiansen@ezbob.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: live in Scotland, working remotely
 
